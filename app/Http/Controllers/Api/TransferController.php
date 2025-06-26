@@ -4,12 +4,7 @@ namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
 use App\Http\Requests\TransferRequest;
-use App\Models\Account;
-use App\Models\Transaction;
-use App\services\CurrencyService;
 use App\Services\TransferService;
-use Illuminate\Support\Facades\DB;
-use Illuminate\Support\Facades\Log;
 
 class TransferController extends Controller
 {
