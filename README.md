@@ -1,5 +1,7 @@
-git clone https://github.com/JanisKaucis/BankAPITask.git 
+git clone https://github.com/JanisKaucis/BankAPITask.git
+
 cd BankAPITask 
+
 composer install  
 copy .env.example .env  
 open .env and set database settings  
