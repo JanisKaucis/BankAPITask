@@ -1,4 +1,4 @@
-git clone https://github.com/JanisKaucis/MintosTask.git  
+git clone https://github.com/JanisKaucis/BankAPITask.git
 cd MintosTask  
 composer install  
 copy .env.example .env  
